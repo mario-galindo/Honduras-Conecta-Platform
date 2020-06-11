@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Honduras-Conecta-Platform"
+    }
+  },
+  "defaultProject": "Honduras-Conecta-Platform",
+  "cli": {
+    "analytics": false
+  }
 }
